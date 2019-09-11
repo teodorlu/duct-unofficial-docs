@@ -6,7 +6,8 @@ A Clojure library designed to ... well, that part is up to you.
 
 Hello, there!
 
-Hello, again!
+Hello, again! Can we update in-place? What happens if we just push a Git
+release?
 
 ## License
 
