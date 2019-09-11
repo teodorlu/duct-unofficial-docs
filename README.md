@@ -4,7 +4,7 @@ Not much to see here, please move on!
 
 ## Usage
 
-Hello, there! How fast can you update?
+Hello, there! How fast can you update? Really fast?
 
 Hello, again! Can we update in-place? What happens if we just push a Git
 release?
