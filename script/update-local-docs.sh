@@ -2,7 +2,7 @@
 CLJDOC_ROOT="$HOME/git/upstream/cljdoc"
 CLJDOC_SCRIPT="script/cljdoc"
 PROJECT="duct-unofficial-docs"
-VERSION="0.1.0-SNAPSHOT"
+VERSION="0.2.2-SNAPSHOT"
 PATH_HERE="$HOME/git/duct-unofficial-docs"
 
 if [ "$(git status --porcelain)" ]; then
