@@ -1,6 +1,6 @@
 # duct-unofficial-docs
 
-A Clojure library designed to ... well, that part is up to you.
+Not much to see here, please move on!
 
 ## Usage
 
