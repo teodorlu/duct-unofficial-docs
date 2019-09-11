@@ -7,8 +7,8 @@ VERSION="0.2.2-SNAPSHOT"
 PATH_HERE="$HOME/git/duct-unofficial-docs"
 
 if [ "$(git status --porcelain)" ]; then
-    >&2 echo "You have uncommitted changes in your repository."
-    >&2 echo "Note that docs will be built from master, and ignores uncommitted changes."
+    >&2 echo "update-cljdocs: You have uncommitted changes in your repository, aborting"
+    exit 1
 fi
 
 cd "$CLJDOC_ROOT" && "$CLJDOC_SCRIPT" ingest -p "$GROUP/$PROJECT"  -v "$VERSION" --git "$PATH_HERE"
