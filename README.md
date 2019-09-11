@@ -9,12 +9,9 @@ Hello, there! How fast can you update? Really fast?
 To update,
 
 1. Commit your changes
-2. `lein install &&`
+2. `lein install && ./script/update-local-docs.sh`
 
-Hello, again! Can we update in-place? What happens if we just push a Git
-release?
-
-I've linked to Duct. Will that show up?
+That's it!
 
 ## License
 
