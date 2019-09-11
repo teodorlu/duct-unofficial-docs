@@ -5,7 +5,8 @@
   :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
             :url "https://www.eclipse.org/legal/epl-2.0/"}
   :dependencies [[org.clojure/clojure "1.10.0"]
-                 [duct/core "0.7.0"]]
+                 [duct/core "0.7.0"]
+                 [metosin/reitit "0.3.9"]]
   :repl-options {:init-ns duct-unofficial-docs.core}
   :deploy-repositories [["releases" {:url "https://clojars.org/repo"
                                      :creds :gpg}]])

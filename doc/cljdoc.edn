@@ -1,3 +1,4 @@
 {:cljdoc/include-namespaces-from-dependencies
  [duct/core
-  duct/server.http.jetty]}
+  duct/server.http.jetty
+  metosin/reitit-core]}
