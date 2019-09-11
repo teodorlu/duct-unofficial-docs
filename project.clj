@@ -1,4 +1,4 @@
-(defproject org.clojars.teodorlu/duct-unofficial-docs "0.2.0-SNAPSHOT"
+(defproject org.clojars.teodorlu/duct-unofficial-docs "0.2.1-SNAPSHOT"
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
   :scm {:name "git" :url "https://github.com/teodorlu/duct-unofficial-docs"}
