@@ -1,0 +1,2 @@
+{:cljdoc/include-namespaces-from-dependencies
+ [duct/core]}
