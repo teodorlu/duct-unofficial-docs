@@ -9,6 +9,8 @@ Hello, there!
 Hello, again! Can we update in-place? What happens if we just push a Git
 release?
 
+I've linked to Duct. Will that show up?
+
 ## License
 
 Copyright © 2019 FIXME
