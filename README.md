@@ -6,6 +6,8 @@ A Clojure library designed to ... well, that part is up to you.
 
 Hello, there!
 
+Hello, again!
+
 ## License
 
 Copyright © 2019 FIXME
