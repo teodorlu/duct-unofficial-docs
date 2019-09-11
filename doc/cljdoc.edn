@@ -1,2 +1,3 @@
 {:cljdoc/include-namespaces-from-dependencies
- [duct/core]}
+ [duct/core
+  duct/server.http.jetty]}
